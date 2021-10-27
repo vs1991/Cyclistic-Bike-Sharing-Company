@@ -1,8 +1,9 @@
 
 # Cyclistic Bike Sharing 
 
-The main objective of this project is to design marketing strategies aimed at converting casual riders into annual members.
-We are going to analyze analyzing the Cyclistic historical bike trip data to identify trends.
+-The main objective of this project is to design marketing strategies aimed at converting casual riders into annual members.
+
+- We are going to analyze analyzing the Cyclistic historical bike trip data to identify trends.
 
 # Visualization Workbook
 https://public.tableau.com/app/profile/vishnu.sreenivasana/viz/Cyclistic_offical_dashboard/Story1
